@@ -23,10 +23,3 @@ def calculaMedia(ap1, ap2):
         return("Aluno reprovado.")
     else:
         return("Aluno precisa fazer PF.")
-    
-ap1, ap2 = input().split(" ")
-ap1 = float(ap1)
-ap2 = float(ap2)
-
-    
-    
